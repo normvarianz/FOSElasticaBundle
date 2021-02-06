@@ -31,7 +31,7 @@
     ],
     "require": {
         "php": "^7.4 || ^8.0",
-        "pagerfanta/pagerfanta": "dev-master",
+        "pagerfanta/pagerfanta": "3.x-dev",
         "psr/log": "^1.0",
         "ruflin/elastica": "dev-master",
         "symfony/console": "^5.2",
