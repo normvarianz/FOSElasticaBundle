@@ -35,7 +35,7 @@
         "psr/log": "^1.0",
         "ruflin/elastica": "dev-master",
         "symfony/console": "^5.2",
-        "symfony/dependency-injection": "|| ^5.2",
+        "symfony/dependency-injection": "^5.2",
         "symfony/framework-bundle": "^5.2",
         "symfony/property-access": "^5.2"
     },
