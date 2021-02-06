@@ -30,14 +30,14 @@
         }
     ],
     "require": {
-        "php": "^7.2",
-        "pagerfanta/pagerfanta": "^2.0",
+        "php": "^7.4 || ^8.0",
+        "pagerfanta/pagerfanta": "dev-master",
         "psr/log": "^1.0",
-        "ruflin/elastica": "^7.0",
-        "symfony/console": "^4.4 || ^5.1",
-        "symfony/dependency-injection": "^4.4 || ^5.1",
-        "symfony/framework-bundle": "^4.4 || ^5.1",
-        "symfony/property-access": "^4.4 || ^5.1"
+        "ruflin/elastica": "dev-master",
+        "symfony/console": "^5.2",
+        "symfony/dependency-injection": "|| ^5.2",
+        "symfony/framework-bundle": "^5.2",
+        "symfony/property-access": "^5.2"
     },
     "require-dev": {
         "doctrine/doctrine-bundle": "^2.0",
